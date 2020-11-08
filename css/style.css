@@ -1,0 +1,18 @@
+h1 {
+    color: white;
+    font: bold;
+    font-size: medium;
+}
+
+
+body {  
+    height: 10%;
+    width: 5%;
+    background-color: #808080; 
+}
+
+div {
+    height: 2cm;
+    width: 2cm;
+    background-color: #fea500;
+}
